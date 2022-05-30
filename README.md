@@ -6,7 +6,7 @@ Following the success of New York City's Citibike program, we want to analyze th
 
 ## Results
 
-For the month of August 2019, there were over 2.3 million trips totaling more than 680,000 hours of usage. The average trip lasted 17.5 minutes. The majority of trips were taken by subscribers, more trips were taken by males than females, and the majority of trips were made by riders born between 1980 and 2000.
+For the month of August 2019, there were over 2.3 million trips totaling more than 680,000 hours of usage. The average trip lasted 17.5 minutes. The majority of trips were taken by subscribers, more trips were taken by males than females, and the majority of trips were made by those born between 1980 and 2000.
 
 ![Basic_Data](Basic_Data.png)
 
