@@ -2,7 +2,7 @@
 
 ## Overview
 
-Following the success of New York City's Citibike program, we want to evaluate if a similar bikesharing program can be successful in another city by analyzing Citibike's usage data. For this analysis, we looked at August 2019 trip data, which includes trip durations, start and stop locations, start and stop times, and basic user demographic information.
+Following the success of New York City's Citibike program, we want to analyze the program's usage data to help us evaluate if a similar bikesharing program can be successful in another city. For the analysis, we looked at August 2019 trip data, which includes trip durations, start and stop locations, start and stop times, and user type and basic demographic information.
 
 ## Results
 
@@ -25,7 +25,7 @@ The heatmap below shows usage by day of week and time of day. Usage is highest b
 ![Trips_by_Workday](Trips_by_Workday.png)
 
 
-The usage pattern described above is similar when broken down by gender.
+The usage pattern described above is similar when split by gender.
 
 ![Trips_by_Gender](Trips_by_Gender.png)
 
@@ -38,7 +38,7 @@ For male subscribers, peak usage is on Thursday and lowest usage is on Sunday. T
 
 ## Summary 
 
-Based on the dataset, Citibike usage appears to be predominantely driven by male subscribers. Most trips are short, lasting 17.5 minutes on average, and rarely extend beyond one hour. During the workweek, usage is heaviest during morning and evening commute hours, while weekend usage is more evenly spread out throughout the day. Usage by day and hour patterns appear to be consistent across genders, although female usage is much lower than male.
+Based on the dataset, Citibike usage appears to be predominantely driven by male subscribers. Most trips are short, lasting 17.5 minutes on average, and rarely extend beyond one hour. During the workweek, usage is heaviest during morning and evening commute hours, while weekend usage is more evenly spread out throughout the day. Usage patterns appear to be consistent across genders, although female usage is much lower than male usage.
 
 For further insight, the following analysis and visualization are recommended:
 1. Average trip duration by day of week and start hour, and segment the analysis by user type
