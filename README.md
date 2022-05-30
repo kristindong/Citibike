@@ -10,7 +10,7 @@ Using the visualizations you have in your Tableau Story, describe the results of
 
 ![Checkout_Times_for_Users](Checkout_Times_for_Users.png)
 
-![Checkout_Times_for_Gender](Checkout_Times_for_Gender.png)
+![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
 
 ![Trips_by_Workday](Trips_by_Workday.png)
 
