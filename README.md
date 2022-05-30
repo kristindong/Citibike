@@ -6,7 +6,7 @@ Following the success of New York City's Citibike program, we want to evaluate i
 
 ## Results
 
-For the month of August 2019, there were over 2.3 million trips totaling more than 680,000 hours of usage. The average trip lasts 17.5 minutes. The majority of trips were taken by subscribers, more trips were taken by male than female users, the majority of trips were made by riders born between 1980 and 2000.
+For the month of August 2019, there were over 2.3 million trips totaling more than 680,000 hours of usage. The average trip lasted 17.5 minutes. The majority of trips were taken by subscribers, more trips were taken by males than females, and the majority of trips were made by riders born between 1980 and 2000.
 
 ![Basic_Data](Basic_Data.png)
 
@@ -30,11 +30,16 @@ The usage pattern described above is similar when broken down by gender.
 ![Trips_by_Gender](Trips_by_Gender.png)
 
 
-For male subscribers, peak usage is on Thursday and lowest usage is on Sunday. This pattern is less prominent for female subscribers. Usage is highest on weekends for all non-subscribing customers regardless of gender.
+For male subscribers, peak usage is on Thursday and lowest usage is on Sunday. This pattern is similar but less prominent for female subscribers. Usage is highest on weekends for all non-subscribing customers regardless of gender.
 
 ![Trips_by_User_Type](Trips_by_User_Type.png)
 
 
 
 ## Summary 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+Based on the dataset, Citibike usage appears to be predominantely driven by male subscribers. Most trips are short, lasting 17.5 minutes on average, and rarely extend beyond one hour. During the workweek, usage is heaviest during morning and evening commute hours, while weekend usage is more evenly spread out throughout the day. Usage by day and hour patterns appear to be consistent across genders, although female usage is much lower than male.
+
+For further insight, the following analysis and visualization are recommended:
+1. Average trip duration by day of week and start hour, and segment the analysis by user type
+2. Determine what proportion of trips start and end at the same location vs. those that end at a different location, and segment the analysis by gender and/or user type
