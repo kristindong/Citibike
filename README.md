@@ -6,6 +6,17 @@ We analyze New York City's Citibike data to evaluate if a similar bikesharing pr
 ## Results
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
+![Basic_Data](Basic_Data.png)
+
+![Checkout_Times_for_Users](Checkout_Times_for_Users.png)
+
+![Checkout_Times_for_Gender](Checkout_Times_for_Gender.png)
+
+![Trips_by_Workday](Trips_by_Workday.png)
+
+![Trips_by_Gender](Trips_by_Gender.png)
+
+![Trips_by_User_Type](Trips_by_User_Type.png)
 
 
 
