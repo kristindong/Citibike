@@ -5,8 +5,8 @@
 Following the success of New York City's Citibike program, we want to analyze the program's usage data to help us evaluate if a similar bikesharing program can be successful in another city. For the analysis, we looked at August 2019 trip data, which includes trip durations, start and stop locations, start and stop times, and user type and basic demographic information.
 
 ## Results
-Link to Tableau Story 
-[link to dashboard](https://public.tableau.com/app/profile/kristin.dong/viz/CitiBikeChallenge_16538573940130/NYCCitibike?publish=yes)
+
+[Tableau link](https://public.tableau.com/app/profile/kristin.dong/viz/CitiBikeChallenge_16538573940130/NYCCitibike?publish=yes)
 
 For the month of August 2019, there were over 2.3 million trips totaling more than 680,000 hours of usage. The average trip lasted 17.5 minutes. The majority of trips were taken by subscribers, more trips were taken by males than females, and the majority of trips were made by those born between 1980 and 2000.
 
