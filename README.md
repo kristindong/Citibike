@@ -1,11 +1,12 @@
 # bikesharing
 
 ## Overview
-We analyze New York City's Citibike data to evaluate if a similar bikesharing program can be successful in another city.
+
+Following the success of New York City's Citibike program, we want to evaluate if a similar bikesharing program can be successful in another city by analyzing Citibike's usage data. For this analysis, we looked at August 2019 trip data, which includes trip durations, start and stop locations, start and stop times, and basic user demographic information.
 
 ## Results
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
+For the month of August 2019, there were over 2.3 million trips totaling more than 680,000 hours of usage. The average trip lasts 17.5 minutes. The majority of trips were taken by subscribers, more trips were taken by male than female users, the majority of trips were made by riders born between 1980 and 2000.
 
 ![Basic_Data](Basic_Data.png)
 
@@ -19,7 +20,7 @@ Trip duration by gender is similar to trip duration for all users. The mode is s
 ![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
 
 
-The heatmap below shows usage by day of week and time of day. Usage is highest between 8AM to 9AM and between 5PM and 7PM from Monday to Friday, with lighter usage on Wednesday and Friday, and highest usage on Thursday. Usage on the weekend is more evenly spread out throughout the day.
+The heatmap below shows usage by day of week and time of day. Usage is highest between 8AM to 9AM and between 5PM and 7PM from Monday to Friday, with lighter usage on Wednesday and Friday, and highest usage on Thursday. Usage on the weekend is more evenly spread out throughout the day. 
 
 ![Trips_by_Workday](Trips_by_Workday.png)
 
