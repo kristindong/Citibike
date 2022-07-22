@@ -46,6 +46,6 @@ For male subscribers, peak usage is on Thursday and lowest usage is on Sunday. T
 
 Based on this dataset, Citibike usage appears to be predominantely driven by relatively young, male subscribers. Most trips are short, lasting 17.5 minutes on average. During the work week, usage is heaviest during morning and evening commuting times, while weekend usage is much lighter and more evenly distributed throughout the day. Usage patterns appear to be consistent across genders, although usage volume is considerably lower for female than male.
 
-To gain further insight into usage patterns and help determine optimal bike quantity and placement, the following analyis/visualization are recommended:
+To gain further insight into usage patterns and help determine optimal bike quantity and placement, the following analysis/visualization are recommended:
 1. Average trip duration by day of week and start hour, segmented by user type
 2. Determine what proportion of trips start and end at the same location vs. those that end at a different location
