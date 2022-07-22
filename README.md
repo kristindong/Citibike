@@ -2,7 +2,7 @@
 
 ## Overview
 
-Following the success of New York City's Citibike program, we want to analyze usage data to evaluate if a similar bikesharing program can be successful in a different city. For the analysis, we used Citibike's August 2019 trip data, which includes trip duration, start and stop locations, start and stop times, user type and basic demographic information.
+Following the success of New York City's Citibike program, we want to study usage data to help evaluate if a similar bikesharing program can be successful in a different city. For the analysis, we used Citibike's August 2019 trip data, which includes trip duration, start and stop locations, start and stop times, user type and basic demographic information.
 
 ## Findings
 
