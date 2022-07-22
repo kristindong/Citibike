@@ -1,23 +1,27 @@
-# bikesharing
+# Bikesharing Analysis using Tableau
 
 ## Overview
 
-Following the success of New York City's Citibike program, we want to analyze the program's usage data to help us evaluate if a similar bikesharing program can be successful in another city. For the analysis, we looked at August 2019 trip data, which includes trip durations, start and stop locations, start and stop times, and user type and basic demographic information.
+Following the success of New York City's Citibike program, we want to analyze the program's usage data to evaluate if a similar bikesharing program can be successful in a different city. For the analysis, we used August 2019 trip data, which includes trip duration, start and stop locations, start and stop times, user type and basic demographic information.
 
 ## Results
 
 [Tableau link](https://public.tableau.com/app/profile/kristin.dong/viz/CitiBikeChallenge_16538573940130/NYCCitibike?publish=yes)
 
-For the month of August 2019, there were over 2.3 million trips totaling more than 680,000 hours of usage. The average trip lasted 17.5 minutes. The majority of trips were taken by subscribers, more trips were taken by males than females, and the majority of trips were made by those born between 1980 and 2000.
+For the month of August 2019, there were over 2.3 million trips totaling more than 680,000 hours of usage. Some interesting findings include:
+- The average trip lasted 17.5 minutes
+- The majority of trips were taken by subscribers
+- More trips were taken by males than females
+- The majority of trips were made by users born between 1980 and 2000 (Millennials and Gen Z)
 
 ![Basic_Data](Basic_Data.png)
 
-Most trip durations are under 30 minutes, with the mode at 5 minutes and very fews trips lasting more than one hour.
+Most trip durations are under **30 minutes**, with a mode of **five minutes** and very fews trips lasting more than one hour.
 
 ![Checkout_Times_for_Users](Checkout_Times_for_Users.png)
 
 
-Trip duration by gender is similar to trip duration for all users. The mode is six minutes for female and 5 minutes for male.
+Trip duration by gender is similar to trip duration for all users combined. The mode is **six minutes** for female and **five minutes** for male.
 
 ![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
 
