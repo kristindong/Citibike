@@ -1,4 +1,4 @@
-# Bikesharing Analysis using Tableau
+# Bikesharing Analysis Using Tableau
 
 ## Overview
 
