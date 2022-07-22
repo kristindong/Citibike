@@ -2,7 +2,7 @@
 
 ## Overview
 
-Following the success of New York City's Citibike program, we want to study usage data to help evaluate if a similar bikesharing program can be successful in a different city. For the analysis, we used Citibike's August 2019 trip data, which includes trip duration, start and stop locations, start and stop times, user type and basic demographic information.
+Following the success of New York City's Citibike program, we study usage data to help evaluate if a similar bikesharing program can be successful in a different city. For the analysis, we used Citibike's August 2019 trip data, which includes trip duration, start and stop locations, start and stop times, user type and basic demographic information.
 
 ## Findings
 
@@ -44,7 +44,7 @@ For male subscribers, peak usage is on Thursday and lowest usage is on Sunday. T
 
 ## Summary and Recommendation
 
-Based on this dataset, Citibike usage appears to be predominantely driven by relatively young, male subscribers. Most trips are short, lasting 17.5 minutes on average. During the work week, usage is heaviest during morning and evening commuting times, while weekend usage is much lighter more evenly distributed throughout the day. Usage patterns appear to be consistent across genders, although usage volumne is considerably lower for female than male.
+Based on this dataset, Citibike usage appears to be predominantely driven by relatively young, male subscribers. Most trips are short, lasting 17.5 minutes on average. During the work week, usage is heaviest during morning and evening commuting times, while weekend usage is much lighter and more evenly distributed throughout the day. Usage patterns appear to be consistent across genders, although usage volume is considerably lower for female than male.
 
 To gain further insight into usage patterns and help determine optimal bike quantity and placement, the following analyis/visualization are recommended:
 1. Average trip duration by day of week and start hour, segmented by user type
