@@ -8,20 +8,20 @@ Following the success of New York City's Citibike program, we want to study usag
 
 [Tableau link](https://public.tableau.com/app/profile/kristin.dong/viz/CitiBikeChallenge_16538573940130/NYCCitibike?publish=yes)
 
-For the month of August 2019, there were over **2.3 million** trips totaling more than **680,000 hours** of usage. Some interesting findings include:
-- The average trip lasted **17.5 minutes**
+For the month of August 2019, over **2.3 million** trips were taken totaling more than **680,000** hours of usage. A few quick facts:
+- The average trip lasted **17.5** minutes
 - The majority of trips were taken by subscribers
 - More trips were taken by males than females
 - The majority of trips were made by users born **between 1980 and 2000** (Millennials and Gen Z)
 
 ![Basic_Data](Basic_Data.png)
 
-Most trip durations are under **30 minutes**, with a mode of **five minutes** and very fews trips lasting more than one hour.
+Most trip durations are under **30** minutes, with a mode of **five** minutes and very fews trips lasting more than one hour.
 
 ![Checkout_Times_for_Users](Checkout_Times_for_Users.png)
 
 
-Trip duration by gender is similar to trip duration for all users combined. The mode is **six minutes** for female and **five minutes** for male.
+Trip duration by gender is similar to trip duration for all users combined. The mode is **six** minutes for female and **five** minutes for male.
 
 ![Checkout_Times_by_Gender](Checkout_Times_by_Gender.png)
 
